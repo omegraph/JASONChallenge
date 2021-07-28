@@ -1,0 +1,7 @@
+{
+  "Make": "make",
+  "Model": "model",
+  "Year": "year",
+  "Mileage": "mileage",
+  "LicensePlateNumber": "licensePlateNumber"
+}
